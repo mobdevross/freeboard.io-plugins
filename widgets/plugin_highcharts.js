@@ -101,8 +101,8 @@
 				"display_name" : "Time series (Highcharts)",
 				"description" : "Time series line chart.",
 				"external_scripts" : [
-						"http://code.highcharts.com/highcharts.js",
-						"http://code.highcharts.com/modules/exporting.js",
+						"https://code.highcharts.com/highcharts.js",
+						"https://code.highcharts.com/modules/exporting.js",
 						"js/freeboard/plugins/plugin_highcharts_theme.js" ],
 				"fill_size" : true,
 				"settings" : highchartsLineWidgetSettings,
